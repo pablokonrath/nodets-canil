@@ -4,7 +4,7 @@
   "description": "Repositorio criado para acompanhar o curso da b7web",
   "main": "index.js",
   "engines": {
-    "node": "21.x"
+    "node": "20.x"
   },
   "scripts": {
     "build": "tsc",
