@@ -20,4 +20,4 @@ https://nodets-canil-jcnu.onrender.com/
 
 ## Imagem da home do projeto.
 
-[![Logo do Repositório](https://github.com/pablokonrath/nodets-canil/tree/main/public/images/home.png 'home do projeto')](https://github.com)
+[![home do projeto](https://github.com/pablokonrath/nodets-canil/tree/main/public/images/home.png 'home do projeto')]
